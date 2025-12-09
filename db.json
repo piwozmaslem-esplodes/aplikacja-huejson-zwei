@@ -1,4 +1,5 @@
-[
+{
+"zdjecia":[
   {
     "nazwa": "jeden"
     "opis": "opis"
@@ -15,3 +16,4 @@
     "linkDoZdjecia": "https://sklep.kfd.pl/18220-large_default/kfd-omega-3-90-kaps-najmocniejsza.jpg"
   }
 ]
+}
